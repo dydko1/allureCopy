@@ -1,1 +1,1 @@
-https://github.com/allure-examples/allure-examples.git (
+https://github.com/allure-examples/allure-examples.git
