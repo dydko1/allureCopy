@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c06a73e-e5a8-4fe7-8ec0-63778b3767a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-gradle-kts.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-gradle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-maven.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureFixtureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureFixtureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureParameterizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureSimpleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c06a73e-e5a8-4fe7-8ec0-63778b3767a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
