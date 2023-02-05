@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c06a73e-e5a8-4fe7-8ec0-63778b3767a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-gradle-kts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-gradle.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-testng-maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureFixtureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureFixtureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureParameterizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/qameta/allure/examples/testng/AllureSimpleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GZubdeSRhhXR1ldLEtxB7UULFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/mdyduch/OneDrive - Sii Sp. z o.o/Trainings/JavaTrainings/allure-examples/allure-testng/build/allure-results"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.qameta.allure.examples.testng" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mdyduch\OneDrive - Sii Sp. z o.o\Trainings\JavaTrainings\allure-examples\allure-testng\build\allure-results" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mdyduch\OneDrive - Sii Sp. z o.o\Trainings\JavaTrainings\allure-examples\allure-testng\target\allure-results\history\sss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AllureSimpleTest.allureSimpleTest (1)">
+    <configuration name="AllureParameterizedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allure-testng-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.qameta.allure.examples.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.qameta.allure.examples.testng" />
+      <option name="MAIN_CLASS_NAME" value="io.qameta.allure.examples.testng.AllureParameterizedTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllureSimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allure-testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.qameta.allure.examples.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.qameta.allure.examples.testng" />
+      <option name="MAIN_CLASS_NAME" value="io.qameta.allure.examples.testng.AllureSimpleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllureSimpleTest.allureSimpleTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allure-testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.qameta.allure.examples.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.qameta.allure.examples.testng" />
+      <option name="MAIN_CLASS_NAME" value="io.qameta.allure.examples.testng.AllureSimpleTest" />
+      <option name="METHOD_NAME" value="allureSimpleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllureSimpleTest.allureSimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allure-testng-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.qameta.allure.examples.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.qameta.allure.examples.testng" />
+      <option name="MAIN_CLASS_NAME" value="io.qameta.allure.examples.testng.AllureSimpleTest" />
+      <option name="METHOD_NAME" value="allureSimpleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AllureSimpleTest.allureSimpleTest (1)" />
+        <item itemvalue="TestNG.AllureSimpleTest" />
+        <item itemvalue="TestNG.AllureSimpleTest.allureSimpleTest" />
+        <item itemvalue="TestNG.AllureParameterizedTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c06a73e-e5a8-4fe7-8ec0-63778b3767a2" name="Changes" comment="" />
+      <created>1666608499970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666608499970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

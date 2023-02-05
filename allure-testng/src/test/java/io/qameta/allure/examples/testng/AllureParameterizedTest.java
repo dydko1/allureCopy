@@ -12,7 +12,7 @@ public class AllureParameterizedTest {
 
     @DataProvider(name = "data-provider")
     public Object[][] dataProviderMethod() {
-        return new Object[][] { {"First Name"}, {"Second Name"} };
+        return new Object[][] { {"First Name"}, {"Second Name"}, {"Miroooo"} };
     }
 
     @Test(description = "allureParameterizedTest displayName", dataProvider = "data-provider")
@@ -21,6 +21,7 @@ public class AllureParameterizedTest {
     public void allureParameterizedTest(String testParam) {
         //parameter("testParam", testParam);
         step("Step inside parameterized test");
+        step("Test parameter: " + testParam);
         step("Test parameter: " + testParam);
     }
 
